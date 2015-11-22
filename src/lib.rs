@@ -2,4 +2,4 @@
 fn it_works() {
 }
 
-mod sqltypes;
+mod sql;
